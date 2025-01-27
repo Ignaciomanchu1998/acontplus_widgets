@@ -1,7 +1,7 @@
 name: acontplus_widgets
-description: "A new Flutter package project."
+description: "Reusable components such as Checkbox, Radio, Buttons, and more, designed for Flutter projects."
 version: 0.0.1
-homepage:
+homepage: https://github.com/Ignaciomanchu1998/acontplus_widgets
 
 environment:
   sdk: ^3.6.1
